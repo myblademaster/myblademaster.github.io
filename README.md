@@ -1,4 +1,4 @@
-# This is only a personal website.try
+# This is only a personal website.try it
 ## do some thing
 
 #### Design by HTML5UP.
