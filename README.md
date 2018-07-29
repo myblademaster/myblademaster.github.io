@@ -1,7 +1,5 @@
 # This is only a personal website.
-
 ## try it out
-
 ## edit it
 
 #### Design by HTML5UP.
